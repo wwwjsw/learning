@@ -9,3 +9,6 @@
 
 ### Javascript
   * [Random numbers in a specific range] (http://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range)
+  
+### Tools
+ * [Valentina Studio] (http://www.valentina-db.com/en/)
