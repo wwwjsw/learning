@@ -2,6 +2,9 @@
 ### ajax
   * [Simple File Uploads Using jQuery & AJAX](https://abandon.ie/notebook/simple-file-uploads-using-jquery-ajax)
 
+### css
+  * [css ::placeholder - pseudo element](https://css-tricks.com/almanac/selectors/p/placeholder/)
+  
 ### Javascript
   * [Random numbers in a specific range] (http://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range)
   
