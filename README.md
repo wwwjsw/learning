@@ -8,6 +8,9 @@
 ### Javascript
   * [Random numbers in a specific range] (http://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range)
   
+### Linux
+  * [Setting up apt-get to use a http-proxy] (https://help.ubuntu.com/community/AptGet/Howto/#Setting_up_apt-get_to_use_a_http-proxy)
+  
 ### php
   * [Codeigniter - Form Helper] (https://www.codeigniter.com/userguide3/helpers/form_helper.html)
   * [Codeigniter - Output Class] (http://www.codeigniter.com/userguide3/libraries/output.html)
