@@ -22,4 +22,5 @@
 
 
 ### Tools
+ * [Git GUI Client | GitKraken] (https://www.gitkraken.com/)
  * [Valentina Studio] (http://www.valentina-db.com/en/)
