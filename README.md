@@ -9,9 +9,10 @@
  * [Form "inside" a form] (http://stackoverflow.com/a/21900324/4346193)
   
 ### Javascript
+  * [forEach() Reference] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
   * [Random numbers in a specific range] (http://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range)
   * [Working with regular expressions] (https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Regular_Expressions#Working_with_regular_expressions)
-  
+
 ### Linux
   * [Setting up apt-get to use a http-proxy] (https://help.ubuntu.com/community/AptGet/Howto/#Setting_up_apt-get_to_use_a_http-proxy)
   
