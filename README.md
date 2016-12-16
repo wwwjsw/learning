@@ -20,6 +20,7 @@
 ### Php
   * [Codeigniter - Form Helper] (https://www.codeigniter.com/userguide3/helpers/form_helper.html)
   * [Codeigniter - Output Class] (http://www.codeigniter.com/userguide3/libraries/output.html)
+  * [Reference   - strtotime()] (http://php.net/manual/en/function.strtotime.php)
   * [Insert data into two tables, one depend on another] (http://stackoverflow.com/questions/30139090/insert-data-into-two-tables-one-depend-on-another)
 
 
