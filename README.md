@@ -15,7 +15,6 @@
 
 ### Linux
  * [L.A.M.P Server on ubuntu 16.04] (https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04)
-  
  * [Setting up apt-get to use a http-proxy] (https://help.ubuntu.com/community/AptGet/Howto/#Setting_up_apt-get_to_use_a_http-proxy)
   
 ### Php
