@@ -27,3 +27,6 @@
 ### Tools
  * [Git GUI Client | GitKraken] (https://www.gitkraken.com/)
  * [Valentina Studio] (http://www.valentina-db.com/en/)
+
+### WorkFlow
+ * [Docker - Run an interactive container] (https://docs.docker.com/engine/tutorials/dockerizing/#/run-an-interactive-container)
