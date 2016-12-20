@@ -23,7 +23,9 @@
   * [Reference   - strtotime()] (http://php.net/manual/en/function.strtotime.php)
   * [Insert data into two tables, one depend on another] (http://stackoverflow.com/questions/30139090/insert-data-into-two-tables-one-depend-on-another)
 
-
+### Server
+ * [Apache - Set up Mod_Rewrite] (https://www.digitalocean.com/community/tutorials/how-to-set-up-mod_rewrite)
+ 
 ### Tools
  * [Git GUI Client | GitKraken] (https://www.gitkraken.com/)
  * [Valentina Studio] (http://www.valentina-db.com/en/)
