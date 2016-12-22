@@ -31,4 +31,6 @@
  * [Valentina Studio] (http://www.valentina-db.com/en/)
 
 ### WorkFlow
+ * [Git - tags] (https://git-scm.com/book/en/v2/Git-Basics-Tagging)
  * [Docker - Run an interactive container] (https://docs.docker.com/engine/tutorials/dockerizing/#/run-an-interactive-container)
+ * [Semver.org] (http://semver.org)
