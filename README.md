@@ -5,6 +5,9 @@
 ### Css
   * [css ::placeholder - pseudo element](https://css-tricks.com/almanac/selectors/p/placeholder/)
   
+### Documentation
+ * [Custom Search Element Control API] (https://developers.google.com/custom-search/docs/element)
+  
 ### Html
  * [Form "inside" a form] (http://stackoverflow.com/a/21900324/4346193)
   
