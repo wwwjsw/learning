@@ -7,6 +7,7 @@
   
 ### Documentation
  * [Custom Search Element Control API] (https://developers.google.com/custom-search/docs/element)
+ * [Google Publisher Tags] (https://support.google.com/dfp_premium/topic/28788?hl=en&ref_topic=28149)
   
 ### Html
  * [Form "inside" a form] (http://stackoverflow.com/a/21900324/4346193)
