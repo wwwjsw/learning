@@ -1,4 +1,4 @@
-# web_learning
+# learning
 ### Ajax
   * [Simple File Uploads Using jQuery & AJAX](https://abandon.ie/notebook/simple-file-uploads-using-jquery-ajax)
 
