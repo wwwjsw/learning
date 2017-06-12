@@ -26,6 +26,7 @@
   * [Codeigniter - Output Class] (http://www.codeigniter.com/userguide3/libraries/output.html)
   * [Reference   - strtotime()] (http://php.net/manual/en/function.strtotime.php)
   * [Insert data into two tables, one depend on another] (http://stackoverflow.com/questions/30139090/insert-data-into-two-tables-one-depend-on-another)
+  * [8 Regular Expressions You Should Know] (https://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149)
 
 ### Server
  * [Apache - Set up Mod_Rewrite] (https://www.digitalocean.com/community/tutorials/how-to-set-up-mod_rewrite)
